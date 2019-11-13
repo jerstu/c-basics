@@ -1,0 +1,6 @@
+C:\Users\jerst\source\repos\c#basics\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\jerst\source\repos\c#basics\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\jerst\source\repos\c#basics\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\jerst\source\repos\c#basics\Strings\Strings\obj\Debug\Strings.csprojAssemblyReference.cache
+C:\Users\jerst\source\repos\c#basics\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\jerst\source\repos\c#basics\Strings\Strings\obj\Debug\Strings.pdb

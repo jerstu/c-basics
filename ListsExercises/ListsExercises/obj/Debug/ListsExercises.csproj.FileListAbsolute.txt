@@ -1,0 +1,6 @@
+C:\Users\jerst\source\repos\c#basics\ListsExercises\ListsExercises\bin\Debug\ListsExercises.exe.config
+C:\Users\jerst\source\repos\c#basics\ListsExercises\ListsExercises\bin\Debug\ListsExercises.exe
+C:\Users\jerst\source\repos\c#basics\ListsExercises\ListsExercises\bin\Debug\ListsExercises.pdb
+C:\Users\jerst\source\repos\c#basics\ListsExercises\ListsExercises\obj\Debug\ListsExercises.exe
+C:\Users\jerst\source\repos\c#basics\ListsExercises\ListsExercises\obj\Debug\ListsExercises.pdb
+C:\Users\jerst\source\repos\c#basics\ListsExercises\ListsExercises\obj\Debug\ListsExercises.csprojAssemblyReference.cache

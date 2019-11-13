@@ -1,0 +1,5 @@
+C:\Users\jerst\source\repos\c#basics\RandomClass\RandomClass\bin\Debug\RandomClass.exe.config
+C:\Users\jerst\source\repos\c#basics\RandomClass\RandomClass\bin\Debug\RandomClass.exe
+C:\Users\jerst\source\repos\c#basics\RandomClass\RandomClass\bin\Debug\RandomClass.pdb
+C:\Users\jerst\source\repos\c#basics\RandomClass\RandomClass\obj\Debug\RandomClass.exe
+C:\Users\jerst\source\repos\c#basics\RandomClass\RandomClass\obj\Debug\RandomClass.pdb

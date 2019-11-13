@@ -1,0 +1,6 @@
+C:\Users\jerst\source\repos\c#basics\Structs\Structs\bin\Debug\Structs.exe.config
+C:\Users\jerst\source\repos\c#basics\Structs\Structs\bin\Debug\Structs.exe
+C:\Users\jerst\source\repos\c#basics\Structs\Structs\bin\Debug\Structs.pdb
+C:\Users\jerst\source\repos\c#basics\Structs\Structs\obj\Debug\Structs.csprojAssemblyReference.cache
+C:\Users\jerst\source\repos\c#basics\Structs\Structs\obj\Debug\Structs.exe
+C:\Users\jerst\source\repos\c#basics\Structs\Structs\obj\Debug\Structs.pdb

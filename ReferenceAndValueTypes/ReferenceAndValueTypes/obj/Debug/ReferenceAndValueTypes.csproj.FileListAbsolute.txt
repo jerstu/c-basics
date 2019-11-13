@@ -1,0 +1,6 @@
+C:\Users\jerst\source\repos\c#basics\ReferenceAndValueTypes\ReferenceAndValueTypes\bin\Debug\ReferenceAndValueTypes.exe.config
+C:\Users\jerst\source\repos\c#basics\ReferenceAndValueTypes\ReferenceAndValueTypes\bin\Debug\ReferenceAndValueTypes.exe
+C:\Users\jerst\source\repos\c#basics\ReferenceAndValueTypes\ReferenceAndValueTypes\bin\Debug\ReferenceAndValueTypes.pdb
+C:\Users\jerst\source\repos\c#basics\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.csprojAssemblyReference.cache
+C:\Users\jerst\source\repos\c#basics\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.exe
+C:\Users\jerst\source\repos\c#basics\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.pdb

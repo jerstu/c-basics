@@ -1,0 +1,6 @@
+C:\Users\jerst\source\repos\c#basics\String_Builder\String_Builder\bin\Debug\String_Builder.exe.config
+C:\Users\jerst\source\repos\c#basics\String_Builder\String_Builder\bin\Debug\String_Builder.exe
+C:\Users\jerst\source\repos\c#basics\String_Builder\String_Builder\bin\Debug\String_Builder.pdb
+C:\Users\jerst\source\repos\c#basics\String_Builder\String_Builder\obj\Debug\String_Builder.csprojAssemblyReference.cache
+C:\Users\jerst\source\repos\c#basics\String_Builder\String_Builder\obj\Debug\String_Builder.exe
+C:\Users\jerst\source\repos\c#basics\String_Builder\String_Builder\obj\Debug\String_Builder.pdb

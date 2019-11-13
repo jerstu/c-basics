@@ -1,0 +1,6 @@
+C:\Users\jerst\source\repos\c#basics\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe.config
+C:\Users\jerst\source\repos\c#basics\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe
+C:\Users\jerst\source\repos\c#basics\WhileLoop\WhileLoop\bin\Debug\WhileLoop.pdb
+C:\Users\jerst\source\repos\c#basics\WhileLoop\WhileLoop\obj\Debug\WhileLoop.exe
+C:\Users\jerst\source\repos\c#basics\WhileLoop\WhileLoop\obj\Debug\WhileLoop.pdb
+C:\Users\jerst\source\repos\c#basics\WhileLoop\WhileLoop\obj\Debug\WhileLoop.csprojAssemblyReference.cache

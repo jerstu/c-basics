@@ -1,0 +1,6 @@
+C:\Users\jerst\source\repos\c#basics\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\jerst\source\repos\c#basics\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\jerst\source\repos\c#basics\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\jerst\source\repos\c#basics\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\jerst\source\repos\c#basics\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\jerst\source\repos\c#basics\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

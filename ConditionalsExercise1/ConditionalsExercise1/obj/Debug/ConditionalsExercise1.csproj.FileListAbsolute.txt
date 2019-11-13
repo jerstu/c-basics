@@ -1,0 +1,6 @@
+C:\Users\jerst\source\repos\c#basics\ConditionalsExercise1\ConditionalsExercise1\bin\Debug\ConditionalsExercise1.exe.config
+C:\Users\jerst\source\repos\c#basics\ConditionalsExercise1\ConditionalsExercise1\bin\Debug\ConditionalsExercise1.exe
+C:\Users\jerst\source\repos\c#basics\ConditionalsExercise1\ConditionalsExercise1\bin\Debug\ConditionalsExercise1.pdb
+C:\Users\jerst\source\repos\c#basics\ConditionalsExercise1\ConditionalsExercise1\obj\Debug\ConditionalsExercise1.exe
+C:\Users\jerst\source\repos\c#basics\ConditionalsExercise1\ConditionalsExercise1\obj\Debug\ConditionalsExercise1.pdb
+C:\Users\jerst\source\repos\c#basics\ConditionalsExercise1\ConditionalsExercise1\obj\Debug\ConditionalsExercise1.csprojAssemblyReference.cache

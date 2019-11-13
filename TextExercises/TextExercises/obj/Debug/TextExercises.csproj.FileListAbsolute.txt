@@ -1,0 +1,6 @@
+C:\Users\jerst\source\repos\c#basics\TextExercises\TextExercises\bin\Debug\TextExercises.exe.config
+C:\Users\jerst\source\repos\c#basics\TextExercises\TextExercises\bin\Debug\TextExercises.exe
+C:\Users\jerst\source\repos\c#basics\TextExercises\TextExercises\bin\Debug\TextExercises.pdb
+C:\Users\jerst\source\repos\c#basics\TextExercises\TextExercises\obj\Debug\TextExercises.csprojAssemblyReference.cache
+C:\Users\jerst\source\repos\c#basics\TextExercises\TextExercises\obj\Debug\TextExercises.exe
+C:\Users\jerst\source\repos\c#basics\TextExercises\TextExercises\obj\Debug\TextExercises.pdb

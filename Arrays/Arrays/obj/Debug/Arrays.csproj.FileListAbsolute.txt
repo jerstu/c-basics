@@ -1,0 +1,5 @@
+C:\Users\jerst\source\repos\c#basics\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\jerst\source\repos\c#basics\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\jerst\source\repos\c#basics\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\jerst\source\repos\c#basics\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\jerst\source\repos\c#basics\Arrays\Arrays\obj\Debug\Arrays.pdb

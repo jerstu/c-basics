@@ -1,0 +1,6 @@
+C:\Users\jerst\source\repos\c#basics\Variables\Variables\obj\Debug\Variables.csprojAssemblyReference.cache
+C:\Users\jerst\source\repos\c#basics\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\jerst\source\repos\c#basics\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\jerst\source\repos\c#basics\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\jerst\source\repos\c#basics\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\jerst\source\repos\c#basics\Variables\Variables\obj\Debug\Variables.pdb

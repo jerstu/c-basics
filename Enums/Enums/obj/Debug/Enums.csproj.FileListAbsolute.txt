@@ -1,0 +1,5 @@
+C:\Users\jerst\source\repos\c#basics\Enums\Enums\bin\Debug\Enums.exe.config
+C:\Users\jerst\source\repos\c#basics\Enums\Enums\bin\Debug\Enums.exe
+C:\Users\jerst\source\repos\c#basics\Enums\Enums\bin\Debug\Enums.pdb
+C:\Users\jerst\source\repos\c#basics\Enums\Enums\obj\Debug\Enums.exe
+C:\Users\jerst\source\repos\c#basics\Enums\Enums\obj\Debug\Enums.pdb

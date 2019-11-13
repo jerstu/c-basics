@@ -1,0 +1,5 @@
+C:\Users\jerst\source\repos\c#basics\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.exe.config
+C:\Users\jerst\source\repos\c#basics\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.exe
+C:\Users\jerst\source\repos\c#basics\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.pdb
+C:\Users\jerst\source\repos\c#basics\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.exe
+C:\Users\jerst\source\repos\c#basics\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.pdb

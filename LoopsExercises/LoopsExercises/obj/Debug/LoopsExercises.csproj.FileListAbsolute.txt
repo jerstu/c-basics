@@ -1,0 +1,6 @@
+C:\Users\jerst\source\repos\c#basics\LoopsExercises\LoopsExercises\bin\Debug\LoopsExercises.exe.config
+C:\Users\jerst\source\repos\c#basics\LoopsExercises\LoopsExercises\bin\Debug\LoopsExercises.exe
+C:\Users\jerst\source\repos\c#basics\LoopsExercises\LoopsExercises\bin\Debug\LoopsExercises.pdb
+C:\Users\jerst\source\repos\c#basics\LoopsExercises\LoopsExercises\obj\Debug\LoopsExercises.exe
+C:\Users\jerst\source\repos\c#basics\LoopsExercises\LoopsExercises\obj\Debug\LoopsExercises.pdb
+C:\Users\jerst\source\repos\c#basics\LoopsExercises\LoopsExercises\obj\Debug\LoopsExercises.csprojAssemblyReference.cache

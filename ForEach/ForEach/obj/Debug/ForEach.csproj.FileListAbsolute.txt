@@ -1,0 +1,5 @@
+C:\Users\jerst\source\repos\c#basics\ForEach\ForEach\bin\Debug\ForEach.exe.config
+C:\Users\jerst\source\repos\c#basics\ForEach\ForEach\bin\Debug\ForEach.exe
+C:\Users\jerst\source\repos\c#basics\ForEach\ForEach\bin\Debug\ForEach.pdb
+C:\Users\jerst\source\repos\c#basics\ForEach\ForEach\obj\Debug\ForEach.exe
+C:\Users\jerst\source\repos\c#basics\ForEach\ForEach\obj\Debug\ForEach.pdb

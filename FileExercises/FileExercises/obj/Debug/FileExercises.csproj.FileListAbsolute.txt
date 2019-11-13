@@ -1,0 +1,6 @@
+C:\Users\jerst\source\repos\c#basics\FileExercises\FileExercises\bin\Debug\FileExercises.exe.config
+C:\Users\jerst\source\repos\c#basics\FileExercises\FileExercises\bin\Debug\FileExercises.exe
+C:\Users\jerst\source\repos\c#basics\FileExercises\FileExercises\bin\Debug\FileExercises.pdb
+C:\Users\jerst\source\repos\c#basics\FileExercises\FileExercises\obj\Debug\FileExercises.csprojAssemblyReference.cache
+C:\Users\jerst\source\repos\c#basics\FileExercises\FileExercises\obj\Debug\FileExercises.exe
+C:\Users\jerst\source\repos\c#basics\FileExercises\FileExercises\obj\Debug\FileExercises.pdb

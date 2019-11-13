@@ -1,0 +1,6 @@
+C:\Users\jerst\source\repos\c#basics\Iterations\Iterations\bin\Debug\Iterations.exe.config
+C:\Users\jerst\source\repos\c#basics\Iterations\Iterations\bin\Debug\Iterations.exe
+C:\Users\jerst\source\repos\c#basics\Iterations\Iterations\bin\Debug\Iterations.pdb
+C:\Users\jerst\source\repos\c#basics\Iterations\Iterations\obj\Debug\Iterations.csprojAssemblyReference.cache
+C:\Users\jerst\source\repos\c#basics\Iterations\Iterations\obj\Debug\Iterations.exe
+C:\Users\jerst\source\repos\c#basics\Iterations\Iterations\obj\Debug\Iterations.pdb

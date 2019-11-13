@@ -1,0 +1,6 @@
+C:\Users\jerst\source\repos\c#basics\SummarizingText\SummarizingText\bin\Debug\SummarizingText.exe.config
+C:\Users\jerst\source\repos\c#basics\SummarizingText\SummarizingText\bin\Debug\SummarizingText.exe
+C:\Users\jerst\source\repos\c#basics\SummarizingText\SummarizingText\bin\Debug\SummarizingText.pdb
+C:\Users\jerst\source\repos\c#basics\SummarizingText\SummarizingText\obj\Debug\SummarizingText.csprojAssemblyReference.cache
+C:\Users\jerst\source\repos\c#basics\SummarizingText\SummarizingText\obj\Debug\SummarizingText.exe
+C:\Users\jerst\source\repos\c#basics\SummarizingText\SummarizingText\obj\Debug\SummarizingText.pdb

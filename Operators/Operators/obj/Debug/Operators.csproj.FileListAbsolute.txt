@@ -1,0 +1,6 @@
+C:\Users\jerst\source\repos\c#basics\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Users\jerst\source\repos\c#basics\Operators\Operators\bin\Debug\Operators.exe
+C:\Users\jerst\source\repos\c#basics\Operators\Operators\bin\Debug\Operators.pdb
+C:\Users\jerst\source\repos\c#basics\Operators\Operators\obj\Debug\Operators.csprojAssemblyReference.cache
+C:\Users\jerst\source\repos\c#basics\Operators\Operators\obj\Debug\Operators.exe
+C:\Users\jerst\source\repos\c#basics\Operators\Operators\obj\Debug\Operators.pdb

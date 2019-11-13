@@ -1,0 +1,6 @@
+C:\Users\jerst\source\repos\c#basics\Classes\Classes\bin\Debug\Classes.exe.config
+C:\Users\jerst\source\repos\c#basics\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\jerst\source\repos\c#basics\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\jerst\source\repos\c#basics\Classes\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\jerst\source\repos\c#basics\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\jerst\source\repos\c#basics\Classes\Classes\obj\Debug\Classes.pdb
